@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login With FirebaseKotlin</string>
+
+    <string name="id_google_client">53572321443-v5vf94sj7h7mhu5lat3r13s4aj8a6qru.apps.googleusercontent.com</string>
+</resources>

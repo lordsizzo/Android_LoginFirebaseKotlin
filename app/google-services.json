@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "53572321443",
+    "project_id": "loginfirebasekotlin-61435",
+    "storage_bucket": "loginfirebasekotlin-61435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53572321443:android:fda4bd9bd487a04f2dff16",
+        "android_client_info": {
+          "package_name": "lou.sizzo.android_loginfirebasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53572321443-v5vf94sj7h7mhu5lat3r13s4aj8a6qru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu0ecO2El8g7LTPSQzHuCEC9DHVaaad_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53572321443-v5vf94sj7h7mhu5lat3r13s4aj8a6qru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
